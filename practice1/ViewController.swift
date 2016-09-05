@@ -24,6 +24,7 @@ class ViewController: UIViewController {
     {
         // comment
         // comment 2
+        var b = 3;
     }
 }
 
